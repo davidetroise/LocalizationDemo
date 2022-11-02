@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by coding on 02/11/22.
+  
+*/
+
+"ContentView.title" = "Hello, world!";
